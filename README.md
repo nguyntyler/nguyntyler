@@ -11,8 +11,8 @@
 Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.amazonaws.com). I'm a passionate Full-Stack developer looking to make great things. I love to code in my free time. I'm always looking to learn something new and immerse myself into uncharted territory. 
 
 My dogs are my life and my goal is to give them all the things they never knew they wanted. In my spare time, you'll definitely find me with them. 🦮🚶🏻
-
- <iframe align="right" src="https://giphy.com/embed/SWchakFYsYDQJZcU7o" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cubcoats-cute-kitty-tiger-SWchakFYsYDQJZcU7o">via GIPHY</a></p>
+ 
+ <img align="right" src="https://giphy.com/embed/SWchakFYsYDQJZcU7o" width="450" height="350">
 
 **My life right now:**
 
