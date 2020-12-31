@@ -31,4 +31,8 @@ Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nguyntyler&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="center">A little something something:</h2>
+
 <p align="center"><img src="https://readme-jokes.vercel.app/api?bgColor=%233C3C3B&qColor=%23bff3c0&aColor=%23fcf4c9&textColor=%23c8c6fa&borderColor=%23f09a9d" alt="Jokes Card" /></p>
