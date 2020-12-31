@@ -8,7 +8,9 @@
 
 <br />
 
-Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.amazonaws.com). I'm a passionate Full-Stack developer looking to make great things. I love to code in my free time. If I'm not coding, I'm 
+Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.amazonaws.com). I'm a passionate Full-Stack developer looking to make great things. I love to code in my free time. I'm always looking to learn something new and immerse myself into uncharted territory. 
+
+My dogs are my life and my goal is to give them all the things they never knew they wanted. In my spare time, you'll definitely find me with them. 🦮🚶🏻
 
  <img align="right" alt="GIF" src="https://github.com/nguyntyler/nguyntyler/blob/main/coding.gif?raw=true" width="400" height="350" />
 
