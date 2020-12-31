@@ -8,7 +8,7 @@
 
 <br />
 
-Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.amazonaws.com). I'm a passionate Full-Stack developer looking to make great things.
+Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.amazonaws.com). I'm a passionate Full-Stack developer looking to make great things. I love to code in my free time. If I'm not coding, I'm 
 
  <img align="right" alt="GIF" src="https://github.com/nguyntyler/nguyntyler/blob/main/coding.gif?raw=true" width="400" height="350" />
 
