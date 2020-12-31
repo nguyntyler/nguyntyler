@@ -12,7 +12,7 @@ Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.a
 
 My dogs are my life and my goal is to give them all the things they never knew they wanted. In my spare time, you'll definitely find me with them. 🦮🚶🏻
  
-<div width="300" height="300" style="overflow:hidden, borderColor:black, borderStyle:solid"><img align="right" alt="GIF" src="https://media.giphy.com/media/SWchakFYsYDQJZcU7o/source.gif" width="500" height="500" style="objectFit:cover" /></div>
+<div style="overflow:hidden, borderColor:black, borderStyle:solid, width:300, height:300"><img align="right" alt="GIF" src="https://media.giphy.com/media/SWchakFYsYDQJZcU7o/source.gif" style="objectFit:cover. width:500, height:500" /></div>
 
 **My life right now:**
 
