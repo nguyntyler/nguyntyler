@@ -15,7 +15,7 @@ Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.a
 **My life right now:**
 
 -   I'm currently attending DigitalCrafts to hone my skills.
--   Right now, I'm learning Express and PostgreSQL.
+-   I'm currently learning Express and PostgreSQL.
 -   How to reach me: Email [ nguyn.tyler@gmail.com ]
 -   [Resume] TBD.
 
