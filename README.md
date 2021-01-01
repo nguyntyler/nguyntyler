@@ -34,7 +34,7 @@ My dogs are my life and my goal is to give them all the things they never knew t
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></code>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nguyntyler&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nguyntyler&show_icons=true&theme=vue" alt="nguyntyler" />
 
 <h2 align="center">A little something something:</h2>
 
