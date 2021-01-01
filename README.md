@@ -5,7 +5,7 @@ Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.a
 My dogs are my life and my goal is to give them all the things they never knew they wanted. In my spare time, you'll definitely find me with them. 🦮🚶🏻
  
   <img align="right" alt="GIF" src="https://github.com/nguyntyler/nguyntyler/blob/main/coding.gif?raw=true" width="300" height="250" />
-  
+  <br />
   <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=nguyntyler.nguyentyler"/>
 
 **My life right now:**
