@@ -18,6 +18,7 @@ My dogs are my life and my goal is to give them all the things they never knew t
 
 -   I'm currently attending DigitalCrafts to hone my skills.
 -   I'm currently learning Express and PostgreSQL.
+-   Connect with me: <a href="https://www.linkedin.com/in/nguyntyler/"><img align="left" alt="Tyler's LinkedIn" width="22px"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 -   How to reach me: Email [ nguyn.tyler@gmail.com ]
 -   [Resume] TBD.
 
