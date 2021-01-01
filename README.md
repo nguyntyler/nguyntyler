@@ -1,12 +1,4 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://www.linkedin.com/in/nguyntyler/">
-  <img align="left" alt="Tyler's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=nguyntyler.nguyentyler)
-
-<br />
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.amazonaws.com). I'm a passionate Full-Stack developer looking to make great things. I love to code in my free time. I'm always looking to learn something new and immerse myself into uncharted territory. 
 
@@ -18,9 +10,10 @@ My dogs are my life and my goal is to give them all the things they never knew t
 
 -   I'm currently attending DigitalCrafts to hone my skills.
 -   I'm currently learning Express and PostgreSQL.
--   Connect with me: <a href="https://www.linkedin.com/in/nguyntyler/"><img align="left" alt="Tyler's LinkedIn" width="22px"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+-   Connect with me: [LinkedIn](https://www.linkedin.com/in/nguyntyler/)
 -   How to reach me: Email [ nguyn.tyler@gmail.com ]
 -   [Resume] TBD.
+-   ![](https://visitor-badge.glitch.me/badge?page_id=nguyntyler.nguyentyler)
 
 **Language and Tools**
 
