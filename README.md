@@ -29,4 +29,4 @@ My dogs are my life and my goal is to give them all the things they never knew t
 
 <h3 align="left">What makes me laugh 😜: <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=nguyntyler.nguyentyler"/></h2>
 
-<p align="left"><img src="https://readme-jokes.vercel.app/api?bgColor=%238D8F8E&qColor=%23bff3c0&aColor=%23fcf4c9&textColor=%23c8c6fa&borderColor=%23f09a9d" alt="Jokes Card" /></p>
+<p align="left"><img src="https://readme-jokes.vercel.app/api?bgColor=%238D8F8E&qColor=%23bff3c0&aColor=%23fcf4c9&textColor=%23c8c6fa&borderColor=%23c3edfa" alt="Jokes Card" /></p>
