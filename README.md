@@ -1,6 +1,6 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hey! I'm [Tyler Nguyen](http://nguyen.tyler-portfolio.com.s3-website-us-east-1.amazonaws.com). I'm a passionate Full-Stack developer looking to make great things. I love to code in my free time. I'm always looking to learn something new and immerse myself into uncharted territory. 
+Hey! I'm [Tyler Nguyen](http://nguyntyler.com). I'm a passionate Full-Stack developer looking to make great things. I love to code in my free time. I'm always looking to learn something new and immerse myself into uncharted territory. 
 
 My dogs are my life and my goal is to give them all the things they never knew they wanted. In my spare time, you'll definitely find me with them. 🦮🚶🏻
  
