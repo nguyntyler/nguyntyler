@@ -8,10 +8,10 @@ My dogs are my life and my goal is to give them all the things they never knew t
 
 **My life right now:**
 
--   I'm currrenly working on [twinmo](https://github.com/nguyntony/twinmo)
+-   I'm currrenly working on [twinmo](https://github.com/nguyntony/twinmo).
 -   I'm currently attending DigitalCrafts to hone my skills.
 -   I'm currently learning Express and PostgreSQL.
--   Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyntyler/)
+-   Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyntyler/).
 -   Send an email at nguyn.tyler@gmail.com, I love to collab!
 -   [Resume] TBD.
 
