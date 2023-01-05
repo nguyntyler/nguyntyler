@@ -7,11 +7,9 @@ My dogs are my life and my goal is to give them all the things they never knew t
   <img align="right" alt="GIF" src="https://github.com/nguyntyler/nguyntyler/blob/main/coding.gif?raw=true" width="300" height="250" />
 
 **My life right now:**
--   I'm currently working at Popmenu as a Junior Software Developer.
+-   I'm currently working at Popmenu as a Software Developer.
 -   I'm currently learning their codebase and working on some stories!
 -   Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyntyler/).
--   Send an email at nguyn.tyler@gmail.com, I love to collab!
--   [Resume](https://docs.google.com/document/d/15qeNJ3tr3DmJMeEerqpWJFIR03Tej1uUX3GweZ74YTg/view).
 
 **Language and Tools**
 
